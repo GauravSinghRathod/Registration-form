@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.container {
+    padding: 50px;
+    background-color: rgb(205, 255, 222);
+
+
+}
+.registerbtn{
+    background-color: green;
+    color: whitesmoke;
+}
+
+
+
